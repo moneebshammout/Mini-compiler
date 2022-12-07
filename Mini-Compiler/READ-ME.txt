@@ -1,0 +1,14 @@
+In order to use our project with no errors there are things to consider:
+1-epsilon=#
+2-dollar sign=$
+3-for the arrow use minus sign - and bigger sign >
+4-to input the grammar go inside project 10 folder then again 
+go in project 10 folder there is a grammar text file there you
+input grammar.
+5- please input the grammar in the order we took in class for example:
+A->B|C
+B->b
+C->c
+also there is an example inside the grammar text .
+6- for checking the language with stack and
+buffer the console will  ask for it.
